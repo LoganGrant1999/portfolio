@@ -94,8 +94,6 @@ A lightweight browser-based clone of the classic Frogger game. The player contro
 
 - Frontend: HTML, CSS, JavaScript.
 
-- Canvas Rendering: Use <canvas> for graphics.
-
 - No backend. All logic runs client-side.
 
 - Assets: Minimal—use colored rectangles for cars/logs/frog.
