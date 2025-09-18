@@ -1,9 +1,9 @@
-project:
+project: Frogger
   type: website
   output-dir: _site
 
 website:
-  title: ""
+  title: "Frogger"
   favicon: images/lg.png
   navbar:
     background: primary
