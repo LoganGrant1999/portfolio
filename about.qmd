@@ -63,20 +63,21 @@ through launches, monetization, and branding initiatives
 
 ### Skills & Interests
 
-**Technical Skills**
-- Python, SQL, HTML, CSS, React, Java, CLIs (Claude Code, Codex, etc.)
-- Tableau, Domo, Google Analytics
-- Jira, Confluence, Figma
+#### Technical Skills
+- Python, SQL, HTML, CSS, React, Java  
+- CLIs (Claude Code, Codex, etc.)  
+- Tableau, Domo, Google Analytics  
+- Jira, Confluence, Figma  
 
-**Soft Skills**
-- Communication and presentation
-- Cross-functional collaboration
-- Strategic thinking and problem-solving
+#### Soft Skills
+- Communication and presentation  
+- Cross-functional collaboration  
+- Strategic thinking and problem-solving  
 
-**Interests**
-- Basketball
-- Carpentry
-- Fishing
+#### Interests
+- Basketball  
+- Carpentry  
+- Fishing  
 
 ### What's Next
 
