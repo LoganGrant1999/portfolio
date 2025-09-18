@@ -6,12 +6,12 @@ title: "About Me"
 
 <img src="images/profile.jpg" alt="add photo to /images" class="rounded-circle mb-3" width="160">
 
-<h1>Your Name</h1>
+<h1>Logan Gibbons</h1>
 
-<a href="https://linkedin.com/in/your-profile" class="btn btn-outline-primary btn-sm" target="_blank">
+<a href="https://www.linkedin.com/in/logangibbons/" class="btn btn-outline-primary btn-sm" target="_blank">
   <i class="fab fa-linkedin"></i> LinkedIn
 </a>
-<a href="https://github.com/your-username" class="btn btn-outline-primary btn-sm" target="_blank">
+<a href="https://github.com/LoganGrant1999" class="btn btn-outline-primary btn-sm" target="_blank">
   <i class="fab fa-github"></i> GitHub
 </a>
 
@@ -19,36 +19,54 @@ title: "About Me"
 
 ## Background
 
-Write a compelling narrative about your background, education, and what drives your passion for product management. This is your chance to tell your story and connect with potential employers or collaborators.
+AI-powered product builder with fintech, startup, and enterprise PM experience. Currently developing a
+financial advisor app for variable-income users with Java/React and AI tools, inspired by peer research. Experienced
+driving measurable impact at Mastercard, Philo Ventures, and Sandbox by reducing friction, accelerating decision-
+making, and delivering customer-centric innovation.
 
 ### Education
 
-- **Degree Name**, University Name (Year)
-- **Relevant Coursework**: List key courses related to product management, analytics, or business
-- **Academic Achievements**: Honor societies, relevant projects, or awards
+- **Bachelor of Science in Strategic Management, Minor in Computer Science**, Brigham Young University (2025)
+- **Relevant Coursework**: MSB 349 (Product Management), ENT 401 (Entrepreneurial Innovation), CS 240 (Advanced Software Construction) 
+- **Academic Achievements**: Cum Laude, BYU Big Idea Competition Finalist
 
 ### Experience
 
-#### Job/Internship Title - Company Name
-*Dates*
+#### Product Management Intern - Mastercard
+*June, 2025 - Aug, 2025*
 
-- Key accomplishment or responsibility
-- Another achievement with quantifiable results
-- Skills or technologies used
+- Led 20+ stakeholder meetings to map the corporate card issuance journey, co-developing a new process that
+reduced user actions by 70% and cut card delivery time by 50-60%
+- Proposed AI tools projected to save $840K+ in annual productivity costs and identified fraud solutions capable of
+reducing commercial payments fraud GDV by over 50%
+- Produced 6+ research-backed implementation recommendations, consistently delivering ahead of deadlines and
+helping to accelerate strategic decision-making
+- Contributed to end-to-end testing of a mission-critical payments platform, uncovering critical bugs during load
+testing and supporting successful product shipment
 
-#### Another Position - Company Name
-*Dates*
+#### Product Management Intern - Philo Ventures
+*May 2024 - May 2025*
 
-- What you contributed to the organization
-- Projects you worked on
-- Impact you made
+- Directed 0-1 development of an AI document processing tool that expedites commercial real estate processes,
+generating $5K+ in revenue in 3 months
+- Established and implemented better development practices (e.g., timeline estimates, Agile development, and kanban
+boards) that increased team productivity by 20%
+- Coordinated product team efforts to select success metrics to track, and analyze upon launch and provided calculated
+benchmarks for comparison
+
+#### Growth Product Manager, Co-Founder - Sandbox
+*Jan 2023 - Apr 2024*
+
+- Orchestrated 3 product launches, designed monetization strategies, and secured 15 company signups for beta waitlist
+through launches, monetization, and branding initiatives
+- Led Agile ceremonies for a 6-person team, aligning engineering and UX to deliver features on sprint deadlines
 
 ### Skills & Interests
 
 **Technical Skills**
-- Programming languages (Python, R, SQL)
-- Analytics tools (Tableau, Power BI, Google Analytics)
-- Product management tools (Jira, Confluence, Figma)
+- Python, SQL, HTML, CSS, React, Java, CLIs (Claude Code, Codex, etc.)
+- Tableau, Domo, Google Analytics
+- Jira, Confluence, Figma
 
 **Soft Skills**
 - Communication and presentation
@@ -56,8 +74,10 @@ Write a compelling narrative about your background, education, and what drives y
 - Strategic thinking and problem-solving
 
 **Interests**
-Share what you're passionate about outside of work - this helps humanize your professional brand and can be great conversation starters.
+- Basketball
+- Carpentry
+- Fishing
 
 ### What's Next
 
-Describe your career goals and what type of opportunities you're seeking. This helps visitors understand how they might work with you or whether you'd be a good fit for their organization.
+I’m pursuing a career in product management focused on fintech and AI-driven products, with the goal of building tools that make finance simpler and smarter. I’m seeking early-career opportunities—like APM/RPM programs or product roles—where I can drive innovation, collaborate cross-functionally, and deliver meaningful impact. My passion is turning complex problems into intuitive, user-centered solutions.
